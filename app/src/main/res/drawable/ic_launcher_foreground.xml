@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center scale inside 66dp safe zone (21dp margin on each side) -->
+    <group
+        android:translateX="21"
+        android:translateY="21"
+        android:scaleX="2.75"
+        android:scaleY="2.75">
+        <!-- Stylized Apple and Calisthenics/Flame/Nutrition vector icon inside 24x24 box -->
+        <!-- Apple shape -->
+        <path
+            android:pathData="M18.5,8.5C17.5,7.3 16,6.5 14.5,6.5C13.2,6.5 12.2,7.2 11.5,7.2C10.8,7.2 9.8,6.5 8.5,6.5C6.5,6.5 4.5,7.8 3.5,9.8C1.5,13.3 3,18.5 4.9,21.3C5.9,22.6 7,24 8.5,23.9C9.9,23.8 10.5,23 12.1,23C13.7,23 14.2,23.9 15.6,23.9C17.1,23.9 18.1,22.6 19.1,21.2C20.2,19.6 20.7,18.1 20.8,18C20.7,17.9 18.2,16.9 18.2,14C18.2,11.5 20.2,10.3 20.3,10.2C19.1,8.5 17.3,8.3 16.7,8.2"
+            android:fillColor="#10B981" />
+        <!-- Leaf / Stem -->
+        <path
+            android:pathData="M14.5,5.5C15.1,4.7 15.6,3.6 15.4,2.5C14.4,2.5 13.2,3.2 12.6,3.9C12.1,4.6 11.6,5.8 11.8,6.8C12.9,6.9 14,6.2 14.5,5.5Z"
+            android:fillColor="#34D399" />
+        <!-- Inner Energy Spark / Calorie Flame Cutout/Emblem -->
+        <path
+            android:pathData="M11.5,11C11.5,11 13.5,13 13.5,15C13.5,16.1 12.6,17 11.5,17C10.4,17 9.5,16.1 9.5,15C9.5,14 10.5,12.5 11.5,11Z"
+            android:fillColor="#FFFFFF" />
+        <!-- Calisthenics / Power Bar Badge -->
+        <path
+            android:pathData="M6,14.5 L8.5,14.5 M14.5,14.5 L17,14.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1"
+            android:strokeLineCap="round" />
+    </group>
+</vector>

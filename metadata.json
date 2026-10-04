@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kalória \u0026 Fit",
+  "description": "Kalóriaszámláló és étkezési napló vonalkódolvasóval, személyre szabott napi célokkal, részletes statisztikákkal és otthoni kalisztenika edzéstervekkel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
